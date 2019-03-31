@@ -1,5 +1,6 @@
 # Digital circuits in Verilog
 labs,notes,codes, etc
+![./cod/7-segments-display.jpg](DISPLAY 7 SEGMENTOS)
 
 1. [Somador completo - Conversão direta não otimizada](https://github.com/mayktu/digital-circuits-verilog/blob/master/cod/Somador%20completo%20(Conversao%20nao%20otimizada).v)
 2. [ULA 4 BITS](https://github.com/mayktu/digital-circuits-verilog/blob/master/cod/ULA4-32.v)
